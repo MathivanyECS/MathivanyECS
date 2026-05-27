@@ -15,7 +15,6 @@ Passionate about building intelligent applications, modern web systems, and real
 - 🎓 Electronics & Computer Science Undergraduate at University of Kelaniya
 - 💡 Interested in Full-Stack Development, AI, and Intelligent Systems
 - 🌱 Currently learning Spring Boot, MERN Stack, and AI technologies
-- 🏆 SLT Mobitel TechNovation 2025 Finalist
 - 📫 Email: **mathivmathy@gmail.com**
 - 🌐 Portfolio: https://mathivany-portfolio.netlify.app/
 
@@ -97,17 +96,6 @@ Passionate about building intelligent applications, modern web systems, and real
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MathivanyECS&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathivanyECS&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
